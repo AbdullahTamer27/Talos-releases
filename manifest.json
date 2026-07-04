@@ -1,8 +1,8 @@
 {
-  "latest": "0.1.5",
-  "required_min": "0.1.6",
-  "message": "A required security + stability update. Please update to continue."
-  "kill_below": "0.1.6",
+  "latest": "0.1.6",
+  "required_min": "0.0.0",
+  "kill_below": "0.0.0",
   "blocked_users": [],
   "blocked_machines": [],
+  "message": ""
 }
