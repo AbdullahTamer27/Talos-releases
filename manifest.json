@@ -1,8 +1,8 @@
 {
   "latest": "0.1.6",
-  "required_min": "0.0.0",
+  "required_min": "0.1.6",
   "kill_below": "0.0.0",
   "blocked_users": [],
   "blocked_machines": [],
-  "message": ""
+  "message": "Security Updates"
 }
