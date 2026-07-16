@@ -1,6 +1,6 @@
 {
   "latest": "0.1.10",
-  "required_min": "0.1.6",
+  "required_min": "0.1.10",
   "kill_below": "0.0.0",
   "blocked_users": [],
   "blocked_machines": [],
